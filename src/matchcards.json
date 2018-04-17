@@ -1,0 +1,23 @@
+[
+    
+        {
+          "id": 1,
+          "image": "./img/jonathan.jpg",
+          "clicked": false
+        },
+        {
+          "id": 2,
+          "image": "./img/joseph.png",
+          "clicked": false
+        },
+        {
+          "id": 3,
+          "image": "./img/jotaro.jpg",
+          "clicked": false
+        },
+        {
+          "id": 4,
+          "image": "./img/josuke.jpg",
+          "clicked": false
+        }
+]
